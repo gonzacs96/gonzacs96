@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonzalo</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on **Alkemy.org**
+- 🔭 I’m currently working practicing coding in **Alkemy.org**
 
 - 💬 Ask me about **react,nodejs,javascript,sequelize,express,postgreSQL**
 
